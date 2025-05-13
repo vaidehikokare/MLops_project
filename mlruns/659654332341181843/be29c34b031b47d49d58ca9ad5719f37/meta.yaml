@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/be29c34b031b47d49d58ca9ad5719f37/artifacts
+end_time: 1747050315603
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: be29c34b031b47d49d58ca9ad5719f37
+run_name: secretive-lynx-56
+run_uuid: be29c34b031b47d49d58ca9ad5719f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747049016588
+status: 4
+tags: []
+user_id: kokar

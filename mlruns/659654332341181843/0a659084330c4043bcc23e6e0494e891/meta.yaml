@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/0a659084330c4043bcc23e6e0494e891/artifacts
+end_time: 1744609120900
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: 0a659084330c4043bcc23e6e0494e891
+run_name: thoughtful-loon-573
+run_uuid: 0a659084330c4043bcc23e6e0494e891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744608818795
+status: 3
+tags: []
+user_id: kokar

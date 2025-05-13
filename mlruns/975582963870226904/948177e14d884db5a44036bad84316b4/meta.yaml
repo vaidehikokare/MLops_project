@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/975582963870226904/948177e14d884db5a44036bad84316b4/artifacts
+end_time: 1744724500797
+entry_point_name: ''
+experiment_id: '975582963870226904'
+lifecycle_stage: active
+run_id: 948177e14d884db5a44036bad84316b4
+run_name: languid-panda-187
+run_uuid: 948177e14d884db5a44036bad84316b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744724500741
+status: 4
+tags: []
+user_id: kokar

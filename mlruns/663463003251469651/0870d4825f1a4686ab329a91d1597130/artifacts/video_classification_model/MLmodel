@@ -1,0 +1,19 @@
+artifact_path: video_classification_model
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.9.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.12.7
+mlflow_version: 2.21.0
+model_size_bytes: 62920765
+model_uuid: eb1cc93ac75c419281845a174d3b9f14
+prompts: null
+run_id: 0870d4825f1a4686ab329a91d1597130
+utc_time_created: '2025-04-16 13:35:44.328840'

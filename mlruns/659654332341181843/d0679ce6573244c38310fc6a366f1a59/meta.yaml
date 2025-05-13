@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/d0679ce6573244c38310fc6a366f1a59/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: d0679ce6573244c38310fc6a366f1a59
+run_name: traveling-kite-476
+run_uuid: d0679ce6573244c38310fc6a366f1a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746984028852
+status: 1
+tags: []
+user_id: kokar

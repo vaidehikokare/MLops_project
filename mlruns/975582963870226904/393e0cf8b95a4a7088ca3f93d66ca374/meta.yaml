@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/975582963870226904/393e0cf8b95a4a7088ca3f93d66ca374/artifacts
+end_time: 1744723994625
+entry_point_name: ''
+experiment_id: '975582963870226904'
+lifecycle_stage: active
+run_id: 393e0cf8b95a4a7088ca3f93d66ca374
+run_name: popular-fowl-176
+run_uuid: 393e0cf8b95a4a7088ca3f93d66ca374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744723994537
+status: 4
+tags: []
+user_id: kokar

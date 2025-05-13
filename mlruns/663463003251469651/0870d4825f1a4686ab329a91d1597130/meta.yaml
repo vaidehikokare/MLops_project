@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/663463003251469651/0870d4825f1a4686ab329a91d1597130/artifacts
+end_time: 1744810564782
+entry_point_name: ''
+experiment_id: '663463003251469651'
+lifecycle_stage: active
+run_id: 0870d4825f1a4686ab329a91d1597130
+run_name: casual-rat-804
+run_uuid: 0870d4825f1a4686ab329a91d1597130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744807049444
+status: 3
+tags: []
+user_id: kokar

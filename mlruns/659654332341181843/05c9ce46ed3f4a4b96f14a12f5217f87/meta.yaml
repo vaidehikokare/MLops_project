@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/05c9ce46ed3f4a4b96f14a12f5217f87/artifacts
+end_time: 1747055363775
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: 05c9ce46ed3f4a4b96f14a12f5217f87
+run_name: kindly-sponge-832
+run_uuid: 05c9ce46ed3f4a4b96f14a12f5217f87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747055186750
+status: 3
+tags: []
+user_id: kokar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/285a55134acd4551a7b24bde94953ada/artifacts
+end_time: 1747050387427
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: 285a55134acd4551a7b24bde94953ada
+run_name: nimble-crow-859
+run_uuid: 285a55134acd4551a7b24bde94953ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747050349973
+status: 4
+tags: []
+user_id: kokar

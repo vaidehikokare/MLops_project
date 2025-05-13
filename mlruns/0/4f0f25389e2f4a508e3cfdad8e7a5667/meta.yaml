@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/0/4f0f25389e2f4a508e3cfdad8e7a5667/artifacts
+end_time: 1747046818483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f0f25389e2f4a508e3cfdad8e7a5667
+run_name: resilient-wolf-715
+run_uuid: 4f0f25389e2f4a508e3cfdad8e7a5667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747046818384
+status: 4
+tags: []
+user_id: kokar

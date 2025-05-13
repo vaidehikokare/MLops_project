@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/f098d1a3292547a4bac7bd33b472d231/artifacts
+end_time: 1746900487894
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: f098d1a3292547a4bac7bd33b472d231
+run_name: agreeable-calf-223
+run_uuid: f098d1a3292547a4bac7bd33b472d231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746900481200
+status: 4
+tags: []
+user_id: kokar

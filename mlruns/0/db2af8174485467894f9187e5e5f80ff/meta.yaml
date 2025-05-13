@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/0/db2af8174485467894f9187e5e5f80ff/artifacts
+end_time: 1747046397482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db2af8174485467894f9187e5e5f80ff
+run_name: persistent-dog-856
+run_uuid: db2af8174485467894f9187e5e5f80ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747046397391
+status: 4
+tags: []
+user_id: kokar

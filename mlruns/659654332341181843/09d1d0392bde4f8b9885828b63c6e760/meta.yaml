@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/09d1d0392bde4f8b9885828b63c6e760/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: 09d1d0392bde4f8b9885828b63c6e760
+run_name: zealous-worm-273
+run_uuid: 09d1d0392bde4f8b9885828b63c6e760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746985112759
+status: 1
+tags: []
+user_id: kokar

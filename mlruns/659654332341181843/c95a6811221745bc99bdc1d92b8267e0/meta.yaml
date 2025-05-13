@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/c95a6811221745bc99bdc1d92b8267e0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: c95a6811221745bc99bdc1d92b8267e0
+run_name: big-hog-341
+run_uuid: c95a6811221745bc99bdc1d92b8267e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746984529608
+status: 1
+tags: []
+user_id: kokar

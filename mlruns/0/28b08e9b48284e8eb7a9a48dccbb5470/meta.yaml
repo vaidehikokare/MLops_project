@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/0/28b08e9b48284e8eb7a9a48dccbb5470/artifacts
+end_time: 1747043880190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28b08e9b48284e8eb7a9a48dccbb5470
+run_name: industrious-lynx-189
+run_uuid: 28b08e9b48284e8eb7a9a48dccbb5470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747043880016
+status: 4
+tags: []
+user_id: kokar

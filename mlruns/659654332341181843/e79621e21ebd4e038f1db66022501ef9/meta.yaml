@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/e79621e21ebd4e038f1db66022501ef9/artifacts
+end_time: 1747039155931
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: e79621e21ebd4e038f1db66022501ef9
+run_name: wistful-carp-285
+run_uuid: e79621e21ebd4e038f1db66022501ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747037649591
+status: 3
+tags: []
+user_id: kokar

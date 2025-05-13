@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/663463003251469651/bbbc7e6133b448fb861883f9e14e1453/artifacts
+end_time: 1744726469234
+entry_point_name: ''
+experiment_id: '663463003251469651'
+lifecycle_stage: active
+run_id: bbbc7e6133b448fb861883f9e14e1453
+run_name: resilient-squid-973
+run_uuid: bbbc7e6133b448fb861883f9e14e1453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744725347251
+status: 3
+tags: []
+user_id: kokar

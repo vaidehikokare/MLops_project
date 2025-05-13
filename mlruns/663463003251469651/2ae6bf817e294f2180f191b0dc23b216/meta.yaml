@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/663463003251469651/2ae6bf817e294f2180f191b0dc23b216/artifacts
+end_time: 1744806863347
+entry_point_name: ''
+experiment_id: '663463003251469651'
+lifecycle_stage: active
+run_id: 2ae6bf817e294f2180f191b0dc23b216
+run_name: languid-hound-240
+run_uuid: 2ae6bf817e294f2180f191b0dc23b216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744806831557
+status: 4
+tags: []
+user_id: kokar

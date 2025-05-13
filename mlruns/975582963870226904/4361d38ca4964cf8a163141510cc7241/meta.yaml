@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/975582963870226904/4361d38ca4964cf8a163141510cc7241/artifacts
+end_time: 1744724342064
+entry_point_name: ''
+experiment_id: '975582963870226904'
+lifecycle_stage: active
+run_id: 4361d38ca4964cf8a163141510cc7241
+run_name: redolent-sponge-762
+run_uuid: 4361d38ca4964cf8a163141510cc7241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744724341977
+status: 4
+tags: []
+user_id: kokar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/0/77fd4e7638334232a570bf630031a0cc/artifacts
+end_time: 1747047104021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77fd4e7638334232a570bf630031a0cc
+run_name: sedate-lark-533
+run_uuid: 77fd4e7638334232a570bf630031a0cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747047103371
+status: 4
+tags: []
+user_id: kokar

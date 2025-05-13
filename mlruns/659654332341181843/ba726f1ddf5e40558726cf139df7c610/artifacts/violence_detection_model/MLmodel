@@ -1,0 +1,19 @@
+artifact_path: violence_detection_model
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.9.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.12.7
+mlflow_version: 2.21.0
+model_size_bytes: 62898470
+model_uuid: b044b8412a5c4412a7c26507efc10791
+prompts: null
+run_id: ba726f1ddf5e40558726cf139df7c610
+utc_time_created: '2025-05-11 18:53:13.935570'

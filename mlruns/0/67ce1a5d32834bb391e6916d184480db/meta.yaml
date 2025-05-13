@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/0/67ce1a5d32834bb391e6916d184480db/artifacts
+end_time: 1747046735115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67ce1a5d32834bb391e6916d184480db
+run_name: whimsical-sponge-143
+run_uuid: 67ce1a5d32834bb391e6916d184480db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747046735058
+status: 4
+tags: []
+user_id: kokar

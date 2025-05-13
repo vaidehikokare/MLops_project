@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/75826d92e572489695ebf2ef8a7789d8/artifacts
+end_time: 1746984391143
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: 75826d92e572489695ebf2ef8a7789d8
+run_name: able-doe-682
+run_uuid: 75826d92e572489695ebf2ef8a7789d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746984361863
+status: 4
+tags: []
+user_id: kokar

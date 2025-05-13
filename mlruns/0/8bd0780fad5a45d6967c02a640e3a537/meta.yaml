@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/0/8bd0780fad5a45d6967c02a640e3a537/artifacts
+end_time: 1747044409100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bd0780fad5a45d6967c02a640e3a537
+run_name: nosy-turtle-306
+run_uuid: 8bd0780fad5a45d6967c02a640e3a537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747044303046
+status: 4
+tags: []
+user_id: kokar

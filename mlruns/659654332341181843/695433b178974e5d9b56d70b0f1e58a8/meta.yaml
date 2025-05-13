@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/695433b178974e5d9b56d70b0f1e58a8/artifacts
+end_time: 1746983548837
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: 695433b178974e5d9b56d70b0f1e58a8
+run_name: hilarious-wasp-567
+run_uuid: 695433b178974e5d9b56d70b0f1e58a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746983241427
+status: 4
+tags: []
+user_id: kokar

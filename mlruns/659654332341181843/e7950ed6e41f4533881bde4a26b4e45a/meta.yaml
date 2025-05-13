@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/e7950ed6e41f4533881bde4a26b4e45a/artifacts
+end_time: 1747054320285
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: e7950ed6e41f4533881bde4a26b4e45a
+run_name: classy-lynx-251
+run_uuid: e7950ed6e41f4533881bde4a26b4e45a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747054030355
+status: 4
+tags: []
+user_id: kokar

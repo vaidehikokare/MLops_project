@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python
+tensorflow
+keras
+scikit-learn
+matplotlib
+seaborn
+cookiecutter
+mlflow
+argparse
+PyYAML

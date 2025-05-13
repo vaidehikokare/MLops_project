@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/659654332341181843/7cc5656e5ee54797b11fec996e178df3/artifacts
+end_time: 1744612545171
+entry_point_name: ''
+experiment_id: '659654332341181843'
+lifecycle_stage: active
+run_id: 7cc5656e5ee54797b11fec996e178df3
+run_name: debonair-sloth-324
+run_uuid: 7cc5656e5ee54797b11fec996e178df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744609899495
+status: 3
+tags: []
+user_id: kokar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kokar/Desktop/ml%20project/mlops-sign/mlruns/0/ae7cd1a508c24aafbc355af4948af457/artifacts
+end_time: 1747044285535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae7cd1a508c24aafbc355af4948af457
+run_name: receptive-koi-987
+run_uuid: ae7cd1a508c24aafbc355af4948af457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747044208782
+status: 4
+tags: []
+user_id: kokar
