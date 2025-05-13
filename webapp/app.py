@@ -13,11 +13,9 @@ from email.mime.multipart import MIMEMultipart
 # Streamlit UI Setup
 st.set_page_config(page_title="Violence Detection System", page_icon="🔍", layout="wide")
 
-MODEL_PATH = "models/quantized_model.h5"
+MODEL_PATH = "models/trained31.h5"
 
 @st.cache_resource
-# @st.cache_resource caches the loaded model so you don’t reload it on every interaction.
-# If loading fails, you write an error to the UI.
 def load_trained_model(model_path):
     try:
         return load_model(model_path)
@@ -27,13 +25,13 @@ def load_trained_model(model_path):
 
 model = load_trained_model(MODEL_PATH)
 
-IMG_SIZE = (255, 255)
+IMG_SIZE = (225, 225)  # FIXED: Match model's expected input shape
 
 def preprocess_frame(frame):
     frame = cv2.resize(frame, IMG_SIZE)
-    frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)#Convert BGR→RGB for Keras.
+    frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     frame = frame / 255.0
-    return np.expand_dims(frame, axis=0)
+    return np.expand_dims(frame, axis=0)  # shape: (1, 225, 225, 3)
 
 def preprocess_video(video_path):
     cap = cv2.VideoCapture(video_path)
@@ -52,7 +50,7 @@ def preprocess_video(video_path):
         return None
 
     frames = np.array(frames)
-    frames = np.mean(frames, axis=0)
+    frames = np.mean(frames, axis=0)  # average frame
     return np.expand_dims(frames, axis=0)
 
 def send_email(subject, body, to_email):
@@ -64,23 +62,21 @@ def send_email(subject, body, to_email):
         msg['From'] = from_email
         msg['To'] = to_email
         msg['Subject'] = subject
-        
         msg.attach(MIMEText(body, 'plain'))
-        
+
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
         server.login(from_email, password)
-        text = msg.as_string()
-        server.sendmail(from_email, to_email, text)
+        server.sendmail(from_email, to_email, msg.as_string())
         server.quit()
-        
+
         st.success("✅ Email sent successfully!")
     except Exception as e:
         st.error(f"Error sending email: {e}")
 
-# Streamlit App
-st.title(" Violence Detection System")
-st.sidebar.header("⚡Choose Mode")
+# Streamlit App UI
+st.title("Violence Detection System")
+st.sidebar.header("⚡ Choose Mode")
 mode = st.sidebar.radio("Select Video Mode:", ["📂 Upload Video", "🎥 Use Webcam"])
 
 if mode == "📂 Upload Video":
@@ -125,7 +121,6 @@ elif mode == "🎥 Use Webcam":
     with col2:
         stop_video = st.button("⏹ **Stop Video**")
 
-    # Initialize session state
     if "recording" not in st.session_state:
         st.session_state.recording = False
     if "pred_buffer" not in st.session_state:
@@ -169,7 +164,7 @@ elif mode == "🎥 Use Webcam":
 
             if avg_prediction < 0.5:
                 alert_placeholder.error(f"🚨 Violence Detected! (Confidence: {avg_prediction:.2f})")
-                
+
                 if st.session_state.violence_start_time is None:
                     st.session_state.violence_start_time = time.time()
                 elif not st.session_state.alert_sent and (time.time() - st.session_state.violence_start_time >= 10):
