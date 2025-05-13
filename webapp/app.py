@@ -13,7 +13,7 @@ from email.mime.multipart import MIMEMultipart
 # Streamlit UI Setup
 st.set_page_config(page_title="Violence Detection System", page_icon="🔍", layout="wide")
 
-MODEL_PATH = "models/trained31.h5"
+MODEL_PATH = "models1/trained31.h5"
 
 @st.cache_resource
 def load_trained_model(model_path):
