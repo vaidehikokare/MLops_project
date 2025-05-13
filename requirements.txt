@@ -10,3 +10,6 @@ cookiecutter
 mlflow
 argparse
 PyYAML
+pillow
+six
+urllib3
